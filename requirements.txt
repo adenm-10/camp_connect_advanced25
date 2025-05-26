@@ -1,1 +1,2 @@
 gymnasium[box2d,classic-control,atari]
+stable_baselines
