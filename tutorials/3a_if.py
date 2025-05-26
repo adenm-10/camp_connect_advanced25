@@ -10,3 +10,11 @@ if (i_am_hungry):
 
 else:
     print("You don't need to eat")
+
+a = 1
+if (a == 0):
+    print(0)
+elif (a == 2):
+    print(2)
+else:
+    print()
